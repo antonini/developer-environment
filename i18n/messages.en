@@ -1,0 +1,26 @@
+#
+# Author: Endrigo Antonini
+#
+# Mensagens em pt-BR
+#
+
+# General
+
+i18n_yes_default="Y"
+i18n_yes="y"
+i18n_no_default="N"                                                                                                      
+i18n_no="n"
+
+i18n_confirm_options="\$1 \(Y\/n\) "
+i18n_confirm_value="Value: \\\"\$1\\\". Is it correct? \(Y\/n\) "
+
+# GIT
+
+i18n_git_global_config_confirmation="Do you want that those configuration be global (--global)? "
+i18n_git_global_config_confirmed="** Going to configure all the options globally!** "
+
+i18n_git_user_email="User e-mail: "
+i18n_git_user_name="User name: "
+
+i18n_git_gpg_confirmation="Do you want to configure GPG? "
+
